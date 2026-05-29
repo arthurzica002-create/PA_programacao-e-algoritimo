@@ -1,0 +1,16 @@
+#arquivos compilados java 
+*.class
+
+#configuracoes do Vscode
+.Vscode
+Vscode/
+
+#Logs
+*.Logs
+
+#Arquivos temporarios
+*.temp
+
+#Sistema operecional
+.Ds_store
+Thumbs.db
